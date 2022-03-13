@@ -1,4 +1,4 @@
-# Deep-Q-learning-Game-Solver
+# Q-learning-Game-Solver
 The following is a 2D predator/prey game designed by Anand Patel played in a maze. 
 The code sets up the maze, places items & loot, and fixes an exit door at a node through the edges.csv, nodes.csv
 
